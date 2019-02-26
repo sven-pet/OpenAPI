@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OpenAPI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Open API</string>
+    <string name="nav_header_subtitle">sven.pettersson@scomas.se</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="transition_string">Hello blank fragment</string>
+    <string name="hello_blank_fragment">This feature is not yet implemented</string>
+    <string name="menu_swedish_radio">Swedish Radio</string>
+    <string name="menu_swedish_europeana">Europeana</string>
+    <string name="nav_swedish_radio_title">Swedish Radio</string>
+</resources>
